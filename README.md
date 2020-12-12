@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![README](./readme.png)
 
 Here are some ideas to get you started:
 

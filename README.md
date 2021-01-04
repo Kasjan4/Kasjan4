@@ -7,3 +7,5 @@ I am a Junior Software Developer. For me learning new technologies and a passion
 Check out my personal portfolio - [kasjanhinc.com](https://kasjanhinc.com/)
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="kasjan-hinc"><a class="LI-simple-link" href='https://uk.linkedin.com/in/kasjan-hinc?trk=profile-badge'>Kasjan Hinc</a></div>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>

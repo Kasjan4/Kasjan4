@@ -9,12 +9,12 @@ I am a creative developer and team player with great communication. I have been 
 ## Technologies & Languages
 
 - HTML & CSS (SASS, SCSS, Bootstrap, Responsive, Flexbox, Animations, Forms)
-- JavaScript ES6 (Vanilla, jQuery plugins, JSON)
-- React (Hooks, Express, JSX, Webpack, Babel)
-- Node, JSON web token, Axios, Bcrypt
+- JavaScript ES6 (Vanilla, TypeScript, jQuery plugins, Express)
+- React (Hooks, JSX, Webpack, Babel)
+- Node.js, JSON web token, Axios, Bcrypt
 - SQL (PostgreSQL, SQLAlchemy, Marshmallow)
 - NoSQL (MongoDB, Mongoose)
-- REST API's
+- REST API's (JSON)
 - Python (Vanilla, Flask, Pipenv)
 - Git (GitHub, Work flow, project deployment)
 

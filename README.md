@@ -8,7 +8,7 @@ I am a creative developer and team player with great communication. I have been 
 
 ## Technologies & Languages
 
-- HTML & CSS (SASS, SCSS, Bootstrap, Responsive, Flexbox, Animations, Forms)
+- HTML & CSS (SASS, SCSS, Bootstrap, Responsive, Flexbox, Animations, Forms, Validation)
 - JavaScript ES6 (Vanilla, TypeScript, jQuery plugins)
 - React (Hooks, JSX, Webpack, Babel)
 - Node, (JSON web token, Axios, Bcrypt, Express)

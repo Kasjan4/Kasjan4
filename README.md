@@ -11,7 +11,7 @@ I am a creative developer and team player with great communication. I have been 
 - HTML & CSS (SASS, SCSS, Bootstrap, Responsive, Flexbox, Animations, Forms)
 - JavaScript ES6 (Vanilla, TypeScript, jQuery plugins)
 - React (Hooks, JSX, Webpack, Babel)
-- Node.js, (JSON web token, Axios, Bcrypt, Express)
+- Node, (JSON web token, Axios, Bcrypt, Express)
 - SQL (PostgreSQL, SQLAlchemy, Marshmallow)
 - NoSQL (MongoDB, Mongoose)
 - REST API's (JSON)
@@ -23,6 +23,3 @@ I am a creative developer and team player with great communication. I have been 
 📘 <a href="http://kasjanhinc.com/">My portfolio</a>
 
 🔗  <a href="https://www.linkedin.com/in/kasjan-hinc/">My LinkedIn</a>
-
-
-

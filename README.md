@@ -14,8 +14,6 @@
 - Python (Vanilla, Flask, Pipenv)
 - Git (GitHub, Work flow, project deployment)
 
-🥅 My goal for 2021 is to find a frontend role in a creative company.
-
 📘 <a href="http://kasjanhinc.com/">My portfolio</a>
 
 🔗  <a href="https://www.linkedin.com/in/kasjan-hinc/">My LinkedIn</a>

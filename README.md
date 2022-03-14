@@ -1,10 +1,6 @@
 # Hi there, my name is <a href="http://kasjanhinc.com/">Kasjan Hinc</a> <img src="./img/wave.gif" width="28">
 
-
 <a href="http://kasjanhinc.com/">![README](./img/cover.png)</a>
-
-
-I am a creative developer and team player with great communication. I have been exposed to a wide variety of modern technologies and believe to have an understanding of full stack development and consider myself to be very adaptable. I’m looking for a role where I can expand my knowledge and work on modern technologies and languages.
 
 ## Technologies & Languages
 

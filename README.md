@@ -4,15 +4,15 @@
 
 ## Technologies & Languages
 
-- HTML & CSS (SASS, SCSS, Bootstrap, Responsive, Flexbox, Animations, Forms, Validation)
+- HTML, CSS, SCSS (RWD, Flexbox, Animations, Forms, Validation, Bootstrap)
 - JavaScript ES6 (Vanilla, TypeScript, jQuery plugins)
-- React (Hooks, JSX, Webpack, Babel)
-- Node, (JSON web token, Axios, Bcrypt, Express)
+- React (Classical, Functional, Hooks, Redux, Redux-Saga, JSX, Webpack)
+- Node (JSON web token, Axios, Bcrypt, Express)
 - SQL (PostgreSQL, SQLAlchemy, Marshmallow)
 - NoSQL (MongoDB, Mongoose)
 - REST API's (JSON)
 - Python (Vanilla, Flask, Pipenv)
-- Git (GitHub, Work flow, project deployment)
+- Git (GitHub, Git flow, project deployment)
 
 📘 <a href="http://kasjanhinc.com/">My portfolio</a>
 

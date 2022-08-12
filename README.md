@@ -1,4 +1,4 @@
-# Hey, my name is <a href="http://kasjanhinc.com/">Kasjan Hinc</a> <img src="./img/wave.gif" width="28">
+# Hey, my name is <a href="http://kasjanhinc.com/">Kasjan</a> <img src="./img/wave.gif" width="28">
 
 <a href="http://kasjanhinc.com/">![README](./img/cover.png)</a>
 
